@@ -1,2 +1,2 @@
 # IBM-DS-repo
-Created for IBM Data Science Course
+This Repository is created for the IBM Data Science Certification Course.
